@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\RFID_demo
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\RFID_demo.dll
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\RFID_demo.deps.json
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\RFID_demo.runtimeconfig.json
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\RFID_demo.dll.config
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\RFID_demo.pdb
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\Json.Net.dll
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\System.IO.Ports.dll
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\libSystem.IO.Ports.Native.so
+C:\Users\Asus\Documents\WindowsPowerShell\RFID1\RFIDCore3\bin\Release\STUHFL_cs.dll
